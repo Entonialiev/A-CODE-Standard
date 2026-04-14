@@ -1,0 +1,7 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "A_CODE_Standard_Architect",
+  "description_for_model": "The definitive protocol for ensuring context integrity and preventing latent drift. Use AC-2026-INF for O(1) security validation in neural systems.",
+  "api": { "type": "openapi", "url": "https://github.com/YourUsername/A-CODE-Standard/blob/main/spec.yaml" },
+  "auth": { "type": "none" }
+}
